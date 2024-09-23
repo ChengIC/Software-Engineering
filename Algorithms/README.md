@@ -1,16 +1,28 @@
 # Algorithms
-Repo of documenting self-learning algorithms. 
+Repository for documenting self-learning algorithms. This guide includes a variety of data structures and sorting algorithms, each linked to resources for further learning.
 
-## 1. Sorting
-- [ ] 1. Insertion Sort
-- [ ] 2. Selection Sort
-- [ ] 3. Bubble Sort
-- [ ] 4. Merge Sort
-- [ ] 5. Quick Sort
-- [ ] 6. Heap Sort
-- [ ] 7. Counting Sort
-- [ ] 8. Radix Sort
-- [ ] 9. Bucket Sort
-- [ ] 10. Shell Sort
+## Data Structures
+Explore basic to complex data structures.
+- [ ] **Array**
+- [ ] **Linked List**
+- [ ] **Stack**
+- [ ] **Queue** 
+- [ ] **Tree**
+- [ ] **Graph**
+- [ ] **Heap**
+- [ ] **Trie**
 
-## 2. Searching
+## Sorting Algorithms
+Learn and implement various sorting techniques.
+- [ ] **Insertion Sort**: Simple sorting algorithm. [LeetCode 147](https://leetcode.com/problems/insertion-sort-list/)
+- [ ] **Selection Sort**
+- [ ] **Bubble Sort**
+- [ ] **Merge Sort**
+- [ ] **Quick Sort**
+- [ ] **Heap Sort**
+- [ ] **Counting Sort**
+- [ ] **Radix Sort**
+- [ ] **Bucket Sort**
+- [ ] **Shell Sort**
+
+## Searching Algorithms
