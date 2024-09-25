@@ -1,5 +1,5 @@
 # Algorithms (minimalist version)
-- Repository for documenting self-learning algorithms. 
+- Repository for self-learning algorithms with **minimalistic roadmap**. 
 - Roadmap is referred from [Algorithms 4th Edition](https://algs4.cs.princeton.edu/home/) by Robert Sedgewick and Kevin Wayne.
 - Coding practices are referred from [Leetcode](https://leetcode.com/) and [HackerRank](https://www.hackerrank.com/).
 

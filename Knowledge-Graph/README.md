@@ -1,5 +1,6 @@
 # Knowledge-Graph
-Minimalist roadmap for self-learning knowledge graph, from traditional KG to KG with machine learning and KG with LLM.
+- Repository for self-learning knowledge graph with **minimalistic roadmap**, from traditional KG to KG with machine learning and KG with LLM.
+- Materials are referred from [Edinburg OpenCourse](https://opencourse.inf.ed.ac.uk/kg/course-materials/schedule) and [Stanford CS224W](http://web.stanford.edu/class/cs224w/) and [Neo4j](https://neo4j.com/docs/neo4j-graphrag-python) and [Microsoft](https://github.com/microsoft/GraphRAG).
 
 ## Materials
 ### I. Traditional KG
@@ -42,8 +43,9 @@ Minimalist roadmap for self-learning knowledge graph, from traditional KG to KG 
 
 ## III. GraphRAG (Retrieval Augmented Generation with Graph)
 **Neo4j Version**
-- [ ] [Neo4j gragRAG](https://github.com/neo4j/graph-rag)
-- [ ] [llm-graph-builder](https://github.com/neo4j-labs/llm-graph-builder)
+- [ ] [GitHub - Neo4j gragRAG](https://github.com/neo4j/graph-rag)
+- [ ] [GitHub - llm-graph-builder](https://github.com/neo4j-labs/llm-graph-builder)
+- [ ] [Neo4j Research - Tomaz-Bratanic's Blog](https://neo4j.com/blog/contributor/tomaz-bratanic/)
 
 **Mircosoft Version**
 - [ ] [Microsoft GraphRAG](https://github.com/microsoft/GraphRAG)
