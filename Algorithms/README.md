@@ -3,21 +3,33 @@
 - Roadmap is referred from [Algorithms 4th Edition](https://algs4.cs.princeton.edu/home/) by Robert Sedgewick and Kevin Wayne.
 - Coding practices are referred from [Leetcode](https://leetcode.com/) and [HackerRank](https://www.hackerrank.com/).
 
-### Motivation
-The textbook and online resources from [Princeton University](https://algs4.cs.princeton.edu/home/) are too difficult for beginners, while the contents and roadmap are excellent. Therefore, I want to create a minimalist version for the beginners to practice with online coding quizes while still following the learning path of the textbook.
 
-## Sorting 
+## I. Sorting 
+### Metrics:
+- **Stable Sort**: The relative order of equal elements is preserved.
+- **In-place Sort**: It does not require additional memory for the sorted array.
+- **Time Complexity**: the number of operations performed by the algorithm.
+- **Space Complexity**: the amount of memory required by the algorithm.
+
+
 - [ ] **Selection Sort** 
-- [Practice](https://www.hackerrank.com/contests/17cs1102/challenges/3c-implement-selection-sort) | [Notes](https://www.notion.so/HackerRank-Practice-Selection-Sort-17cs1102-3c-implement-selection-sort-d4222221240f424392222221240f4243) | [Video](https://www.youtube.com/watch?v=NsQO00Gcv_8)
+- From left to right, it swaps the minimum element to the leftmost position and moves the boundary between sorted and unsorted part of the array one element to the right. 
+- In-place | Unstable sort | Time Complexity: O(n^2) | Space Complexity: O(1) 
+- [Video](https://www.youtube.com/watch?v=g-PGLbMth_g&t=39s)
 
 - [ ] **Insertion Sort** 
-- [Practice](https://www.hackerrank.com/challenges/insertionsort1/problem) | [Notes](https://www.notion.so/HackerRank-Practice-Insertion-Sort-1-17cs1102-3c-implement-insertion-sort-d4222221240f424392222221240f4243) | [Video](https://www.youtube.com/watch?v=JU767SDMDvA)
+- From left to right, it inserts the current element to the correct position in the sorted part of the array. 
+- In-place | Stable sort | Time Complexity: O(n^2) | Space Complexity: O(1) 
+- [Video](https://www.youtube.com/watch?v=JU767SDMDvA)
 
 - [ ] **Shell Sort** 
-- [Practice](https://www.hackerrank.com/challenges/ctci-shell-sort) | [Notes](https://www.notion.so/HackerRank-Practice-Shell-Sort-17cs1102-3c-implement-shell-sort-d4222221240f424392222221240f4243) | [Video](https://www.youtube.com/watch?v=NsQO00Gcv_8)
+- It is a generalization of insertion sort. It uses a gap sequence to compare elements that are far apart and gradually reduces the gap size to sort the array. 
+- In-place | Unstable sort | Time Complexity: between O(nlogn) and O(n^2) | Space Complexity: O(1) 
+- [Video](https://www.youtube.com/watch?v=1yDcmjLTWOg)
 
 - [ ] **Merge Sort** 
-- [Practice](https://www.hackerrank.com/contests/hw1/challenges/merge-sort) | [Notes](https://www.notion.so/HackerRank-Practice-Merge-Sort-17cs1102-3c-implement-merge-sort-d4222221240f424392222221240f4243) | [Video](https://www.youtube.com/watch?v=NsQO00Gcv_8)
+- 
+- [Video](https://www.youtube.com/watch?v=4VqmGXwpLqc)
 
 - [ ] **Quick Sort** 
 - [Practice](https://www.hackerrank.com/challenges/quicksort1/problem) | [Notes](https://www.notion.so/HackerRank-Practice-Quick-Sort-17cs1102-3c-implement-quick-sort-d4222221240f424392222221240f4243) | [Video](https://www.youtube.com/watch?v=NsQO00Gcv_8)
@@ -27,13 +39,13 @@ The textbook and online resources from [Princeton University](https://algs4.cs.p
 
 
 
-## Searching 
+## II. Searching 
 - [ ] **Symbol Table**
 - [ ] **Binary Search Tree**
 - [ ] **Binary Balanced Search Tree**
 - [ ] **Hash Table**
 
-## Graph
+## III. Graph
 - [ ] **Undirected Graph**
 - [ ] **Directed Graph**
 - [ ] **Minimum Spanning Tree**
