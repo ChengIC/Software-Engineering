@@ -7,8 +7,7 @@ Repository for self-learning software engineering topics which are important for
 - **Topic 5: [Design Patterns](./Design-Patterns/README.md)**
 - **Topic 6: [Knowledge Graph](./Knowledge-Graph/README.md)**
 - **Topic 7: [Object-Oriented Programming](./Object-Oriented-Programming/README.md)**
-- **Topic 8: [Robust Programming](./Robust-Programming/README.md)**
-- **Topic 9: [Software Testing](./Software-Testing/README.md)**
+- **Topic 8: [Software Testing](./Software-Testing/README.md)**
 
 It is a collection of resources and my personal notes on the topics listed above. I will continue to update it regularly. All content and design are tailored to be ***beginner-friendly***. 
 
