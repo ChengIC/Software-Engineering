@@ -1,21 +1,8 @@
 """
-Real-world Analogy:
-
-Think of it like a chef cooking multiple dishes:
-
-1. Multithreading is like having multiple chefs (threads) each cooking different dishes.
-
-2. Async is like one chef cooking multiple dishes:
-    - Put pasta in boiling water
-    - While waiting, chop vegetables
-    - While sauce is simmering, prepare garnish
-
 This code is using the async approach, while waiting for one Reddit API response,
 it can start requesting another, all managed by a single thread and event loop.
 
 """
-
-
 
 import signal  
 import sys  
